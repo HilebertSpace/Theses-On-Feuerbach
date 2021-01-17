@@ -9,7 +9,7 @@ We decided to put the documentation in the Github wiki instead of in the reposit
 ## Get Start
 Visit the [Github wiki](https://github.com/HilebertSpace/Theses-On-Feuerbach/wiki) to see the doucments and translations.
 ## Contrib
-If you want to contribute to this project, please to read the contribution guidelines.
+If you want to contribute to this project, please to read the [contribution guidelines](https://github.com/HilebertSpace/Theses-On-Feuerbach/blob/main/CONTRIBUTING.md).
 ## Help
 If you need help,please go to the Github discussion.This is where the community is discussing and solving user problems together.
 ## License
