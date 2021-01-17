@@ -1,7 +1,7 @@
 # Theses-On-Feuerbach
 Documents about "Theses On Feuerbach" and translations of these documents.
 ## Note
-We decided to put the documentation in the Github wiki instead of in the repository. The purpose is to make it easier for those who don’t use git to participate in this project.If you have any thoughts of this project, please read the [contribution guidelines](https://github.com/HilebertSpace/Theses-On-Feuerbach/blob/main/CONTRIBUTING.md)
+We decided to put the documentation in the Github wiki instead of in the repository. The purpose is to make it easier for those who don’t use git to participate in this project.If you have any thoughts of this project, please read the [contribution guidelines](https://github.com/HilebertSpace/Theses-On-Feuerbach/blob/main/CONTRIBUTING.md).
 ## Goals
 - Keep the freedom of these documentations
 - Translation based on community collaboration
