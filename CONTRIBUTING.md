@@ -13,9 +13,9 @@ After start,please read the [code of conduct](https://github.com/HilebertSpace/T
 
 If this,please see the [README file](https://github.com/HilebertSpace/Theses-On-Feuerbach/blob/main/README.md):
 
-> If you need help,please go to the Github discussion.This is where the community is discussing and solving user problems together.
+> If you need help,please go to the [Github discussion](https://github.com/HilebertSpace/Theses-On-Feuerbach/discussions).This is where the community is discussing and solving user problems together.
 
-Note:[Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues) **not** the place where you get help.Plesae go to the Github discussion.
+Note:[Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues) **not** the place where you get help.Plesae go to the [Github discussion](https://github.com/HilebertSpace/Theses-On-Feuerbach/discussions).
 
 ## I found a translation qusetion...
 
@@ -34,6 +34,8 @@ We belive that "we must konw,we will know".
 
 ## I have any thoughts with this project(not the translation)
 
-Please to the Github discussion,you can start a discussion with your thought.Please not open a [Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues)!
-Then we will act according to the discussion,for example,a pull requests.
+Please to the [Github discussion](https://github.com/HilebertSpace/Theses-On-Feuerbach/discussions),you can start a discussion with your thought.Please not open a [Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues)!
+Then we will act according to the discussion,for example,a [pull requests](https://github.com/HilebertSpace/Theses-On-Feuerbach/pulls).
 
+## Label
+When you open a [Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues) or [pull requests](https://github.com/HilebertSpace/Theses-On-Feuerbach/pulls),you should add a label for it.Also,you can add a right label or delete wrong label for [Github issue](https://github.com/HilebertSpace/Theses-On-Feuerbach/issues) and [pull requests](https://github.com/HilebertSpace/Theses-On-Feuerbach/pulls).The right label can save our time.About the meaning of labels,please see the https://github.com/HilebertSpace/Theses-On-Feuerbach/labels.
